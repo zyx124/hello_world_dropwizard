@@ -1,0 +1,4 @@
+logging:
+  level: INFO
+  loggers:
+    node40.com.hello: DEBUG
